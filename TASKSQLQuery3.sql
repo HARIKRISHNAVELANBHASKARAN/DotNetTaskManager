@@ -1,0 +1,1 @@
+﻿insert into LOGIN (EMAIL,PASSWORD) values('hkv123@gmail.com','246');
